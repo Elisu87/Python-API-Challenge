@@ -16,6 +16,17 @@ cities get closer to the equator.
 Build a series of scatter plots to showcase the following relationships:
 
 - Temperature (F) vs. Latitude
+
+![](Images/CityLatitudevsMaxTemperature.png)
+
 - Humidity (%) vs. Latitude
+
+![](Images/CityLatitudevsHumidity.png)
+
 - Cloudiness (%) vs. Latitude
+
+![](Images/CityLatitudevsCloudiness.png)
+
 - Wind Speed (mph) vs. Latitude
+
+![](Images/CityLatitudevsWindSpeed.png)
